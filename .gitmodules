@@ -1,0 +1,3 @@
+[submodule "zs-prize-hackathon"]
+	path = zs-prize-hackathon
+	url = https://github.com/3ddelano/zs-prize-hackathon.git
