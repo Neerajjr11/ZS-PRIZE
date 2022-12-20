@@ -10,3 +10,6 @@ This repository is for the hackathon conducted by ZS Prize.
 - [Flow Diagram](#flow-diagram)
 - [Submissions](#submissions)
 - [Authors](#authors)
+
+## Problem Statement
+Address inadequacies in the system by pushing awareness and giving patients access to basic health and medical information
