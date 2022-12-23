@@ -8,8 +8,12 @@ This repository is for the hackathon conducted by ZS Prize.
 - [Problem Statment](#problem-statement)
 - [Background](#background)
 - [Our Approach](#our-approach)
-- [Components](#components)
-- [Prototype](#prototype)
+- [Features and Interfaces](#features-and-interfaces)
+  - [Clean UI](#clean-ui)
+  - [Report Scanner](#report-scanner)
+  - [Medical Chatbot](#medical-chatbot)
+  - [Comparison With Other Users and Friends](#comparison-with-other-users-and-firends)
+  - [Online Medic](#online-medic)
 - [Flow Diagram](#flow-diagram)
 - [Submissions](#submissions)
 - [Authors](#authors)
@@ -26,21 +30,12 @@ India has a chronic disease burden or non-communicable diseases burden of almost
 * Currently there is dysfunction in healthcare, the cost of medicines outweigh the outcomes of the patients.
 * MEDHEAD aims to address the inadequacies in the current healthcare system by providing access to basic health and medical information for patients.
 
-## Components
-* Report Scanner
-* Medical Chatbot
-* Compare with Friends
-* Recommendations Module
-* Doctor Appointment
-
-## Prototype
-It is divided into five modules
+## Features and Interface
 * Clean UI
 * Report Scanner
 * Medical Chatbot
 * Comparison with other users and friends
 * Online Medic
-* 
 
 ## Authors
 
