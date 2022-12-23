@@ -63,8 +63,8 @@ India has a chronic disease burden or non-communicable diseases burden of almost
 * This chatbot is more like a conversational way to get answers to your daily problems like you got a cut / fever and you are not aware of what to do and a google search can lead to incorrect answers / to complex answers.
 * This will give you the point and accurate answers.
 
-> Medical Bhatbot Page
-![Medical Bhatbot image](_assets/7.png)
+> Medical Chatbot Page
+![Medical Chatbot image](_assets/7.png)
 
 ### Comparison with Friends
 * We have also added a new functionality of comparing your results with your close ones which will lead to a healthy competition and cause people to exercise more and go out to gym, it will work like a motivation factor.
