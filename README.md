@@ -1,20 +1,21 @@
-### ZS-PRIZE
+# MEDHEAD - ZS Prize Hackathon Submission
 
-This repository is for the hackathon conducted by ZS Prize.
+This repository contains the code for **MEDHEAD** a product that aims to address the inadequacies in the current healthcare system by providing access to basic health and medical information for patients.
+
+![MEDHEAD](_assets/1.png)
 
 ## Table of Contents
 
-- [Getting Started](#getting-started)
-- [Problem Statment](#problem-statement)
+- [Problem Statement](#problem-statement)
 - [Background](#background)
 - [Our Approach](#our-approach)
-- [Features and Interfaces](#features-and-interfaces)
+- [Features and Interface](#features-and-interface)
   - [Clean UI](#clean-ui)
   - [Report Scanner](#report-scanner)
   - [Medical Chatbot](#medical-chatbot)
   - [Comparison with Friends](#comparison-with-friends)
   - [Recommendations Module](#recommendations-module)
-  - [Doctor Appointment](#doctor-appointment)
+  - [Online Medic](#online-medic)
 - [Flow Diagram](#flow-diagram)
 - [Submissions](#submissions)
 - [Authors](#authors)
@@ -39,33 +40,56 @@ India has a chronic disease burden or non-communicable diseases burden of almost
 * Recommendations Module
 * Doctor Appointment
 
-## Clean UI
+### Clean UI
 * We have a clean and simple user interface which anyone can use regardless of their age. Users can login using any account they feel comfortable with such as google account or create a new account using their email id.
 
-## Report Scanner
+> Landing Page
+![Landing page image](_assets/3.png)
+
+> Login Page
+![Login page image](_assets/2.png)
+
+### Report Scanner
 * We have also built an automated report scanner using OCR which will remove the need for people to manually enter their records and results.
 * Just a simple upload will retrieve all their details.
 * This will be very convenient for the user and if something is not captured by the OCR then they can modify accordingly using manual input too.
 
-## Medical Chatbot
-* Users can also make use of the medical chatbot for simple day to day problems and look for reliable solutions.
+> Self Analyze Page
+![Self Analyze image](_assets/9.png)
+
+### Medical Chatbot
+* Users can also make use of the AI powered medical chatbot for simple day to day problems and look for reliable solutions.
 * This chatbot is more like a conversational way to get answers to your daily problems like you got a cut / fever and you are not aware of what to do and a google search can lead to incorrect answers / to complex answers.
 * This will give you the point and accurate answers.
 
-## Comparison with Friends
+> Medical Bhatbot Page
+![Medical Bhatbot image](_assets/7.png)
+
+### Comparison with Friends
 * We have also added a new functionality of comparing your results with your close ones which will lead to a healthy competition and cause people to exercise more and go out to gym, it will work like a motivation factor.
 
-## Recommendations Module
+> Dashboard Page - View your past reports and compare with friends
+![Dashboard image](_assets/4.png)
+
+### Recommendations Module
 * The main work of this module is to analyse the user details for this reports and suggest based on it the proper diet and exercise needed to maintain a good health.
 
-## Doctor Appointment
-* We have also added a section called as doctor appointment in the end where incase of a problem which needs a doctor's suggestion then the user can book an appointment straight from the app itself.
+> Recommendation Page
+![Recommendation image](_assets/5.png)
+
+### Online Medic
+* We have also added a section called as Online Medic in the end where incase of a problem which needs a doctor's suggestion then the user can book an appointment straight from the app itself.
+
+> Online Medic Page
+![Online medic image](_assets/6.png)
 
 ## Flow Diagram
 
 ## Submissions
-* ## Presentation Link: [Link](https://www.canva.com/design/DAFVSXew4YQ/0u63ZmSRuJcKQij5mTh9Vg/view?utm_content=DAFVSXew4YQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#1)
-* ## Demonstration Link: [Link](https://www.youtube.com/watch?v=rbJihmgOWeU&ab_channel=AbhayArora)
+* ### Presentation Link: [Link](https://www.canva.com/design/DAFVSXew4YQ/0u63ZmSRuJcKQij5mTh9Vg/view?utm_content=DAFVSXew4YQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#1)
+* ### Demonstration Video Link: [Link](https://www.youtube.com/watch?v=rbJihmgOWeU&ab_channel=AbhayArora)
+* ### Figma Prototype Link: [Link](https://www.figma.com/file/zRIvgByb1na7Xxis3kZU8Z)
+
 
 ## Authors
 
@@ -73,12 +97,11 @@ India has a chronic disease burden or non-communicable diseases burden of almost
 * [GitHub](https://github.com/Neerajjr11)
 * [LinkedIn](https://www.linkedin.com/in/neeraj-j-manurkar-64372b212/)
 
-
 #### Abhay Arora
 * [GitHub](https://github.com/SPAbhay)
 * [LinkedIn](https://www.linkedin.com/in/abhayarora27)
 
-#### Delano Lourenco
+#### [Delano Lourenco](https://delanolourenco.xyz)
 * [GitHub](https://github.com/3ddelano)
 * [LinkedIn](https://www.linkedin.com/in/delano-lourenco-a9022a190)
 
