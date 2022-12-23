@@ -23,6 +23,24 @@ Address inadequacies in the system by pushing awareness and giving patients acce
 India has a chronic disease burden or non-communicable diseases burden of almost 20% of its population, where nearly 200 million people have some chronic disease. Of that, just diabetes and hypertension afflict some 100 million people, and that patient population is growing by 13% a year. To make matters worse, the rate of patient adherence to prescribed treatments is abysmally low.
 
 ## Our Approach
+* Currently there is dysfunction in healthcare, the cost of medicines outweigh the outcomes of the patients.
+* MEDHEAD aims to address the inadequacies in the current healthcare system by providing access to basic health and medical information for patients.
+
+## Components
+* Report Scanner
+* Medical Chatbot
+* Compare with Friends
+* Recommendations Module
+* Doctor Appointment
+
+## Prototype
+It is divided into five modules
+* Clean UI
+* Report Scanner
+* Medical Chatbot
+* Comparison with other users and friends
+* Online Medic
+* 
 
 ## Authors
 
