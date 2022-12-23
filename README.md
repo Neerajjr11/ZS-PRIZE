@@ -12,8 +12,9 @@ This repository is for the hackathon conducted by ZS Prize.
   - [Clean UI](#clean-ui)
   - [Report Scanner](#report-scanner)
   - [Medical Chatbot](#medical-chatbot)
-  - [Comparison With Other Users and Friends](#comparison-with-other-users-and-firends)
-  - [Online Medic](#online-medic)
+  - [Comparison with Friends](#comparison-with-firends)
+  - [Recommendations Module](#recommendations-module)
+  - [Doctor Appointment](#online-medic)
 - [Flow Diagram](#flow-diagram)
 - [Submissions](#submissions)
 - [Authors](#authors)
@@ -34,8 +35,26 @@ India has a chronic disease burden or non-communicable diseases burden of almost
 * Clean UI
 * Report Scanner
 * Medical Chatbot
-* Comparison with other users and friends
-* Online Medic
+* Comparison with Friends
+* Recommendations Module
+* Doctor Appointment
+
+## Clean UI
+* We have a clean and simple user interface which anyone can use regardless of their age. Users can login using any account they feel comfortable with such as google account or create a new account using their email id.
+
+## Report Scanner
+* We have also built an automated report scanner using OCR which will remove the need for people to manually enter their records and results.
+* Just a simple upload will retrieve all their details.
+* This will be very convenient for the user and if something is not captured by the OCR then they can modify accordingly using manual input too.
+
+## Medical Chatbot
+* Users can also make use of the medical chatbot for simple day to day problems and look for reliable solutions.
+* This chatbot is more like a conversational way to get answers to your daily problems like you got a cut / fever and you are not aware of what to do and a google search can lead to incorrect answers / to complex answers.
+* This will give you the point and accurate answers.
+
+## Comparison with Friends
+* We have also added a new functionality of comparing your results with your close ones which will lead to a healthy competition and cause people to exercise more and go out to gym, it will work like a motivation factor.
+
 
 ## Authors
 
