@@ -61,6 +61,10 @@ India has a chronic disease burden or non-communicable diseases burden of almost
 ## Doctor Appointment
 * We have also added a section called as doctor appointment in the end where incase of a problem which needs a doctor's suggestion then the user can book an appointment straight from the app itself.
 
+## Submissions
+* ## Presentation Link: [Link](https://www.canva.com/design/DAFVSXew4YQ/0u63ZmSRuJcKQij5mTh9Vg/view?utm_content=DAFVSXew4YQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#1)
+* ## Demonstration Link: [Link]()
+
 ## Authors
 
 #### Neeraj J Manurkar
