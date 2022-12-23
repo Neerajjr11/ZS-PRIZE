@@ -17,6 +17,7 @@ This repository contains the code for **MEDHEAD** a product that aims to address
   - [Recommendations Module](#recommendations-module)
   - [Online Medic](#online-medic)
 - [Flow Diagram](#flow-diagram)
+- [Tech Architecture](#tech-architecture)
 - [Submissions](#submissions)
 - [Authors](#authors)
 
@@ -84,6 +85,12 @@ India has a chronic disease burden or non-communicable diseases burden of almost
 ![Online medic image](_assets/6.png)
 
 ## Flow Diagram
+
+![Flow diagram image](_assets/flow-diagram.png)
+
+## Tech Architecture
+
+![Tech Architecture image](_assets/tech-architecture.png)
 
 ## Submissions
 * ### Presentation Link: [Link](https://www.canva.com/design/DAFVSXew4YQ/0u63ZmSRuJcKQij5mTh9Vg/view?utm_content=DAFVSXew4YQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#1)
