@@ -12,7 +12,7 @@ This repository is for the hackathon conducted by ZS Prize.
   - [Clean UI](#clean-ui)
   - [Report Scanner](#report-scanner)
   - [Medical Chatbot](#medical-chatbot)
-  - [Comparison with Friends](#comparison-with-firends)
+  - [Comparison with Friends](#comparison-with-friends)
   - [Recommendations Module](#recommendations-module)
   - [Doctor Appointment](#online-medic)
 - [Flow Diagram](#flow-diagram)
@@ -55,6 +55,11 @@ India has a chronic disease burden or non-communicable diseases burden of almost
 ## Comparison with Friends
 * We have also added a new functionality of comparing your results with your close ones which will lead to a healthy competition and cause people to exercise more and go out to gym, it will work like a motivation factor.
 
+## Recommendations Module
+* The main work of this module is to analyse the user details for this reports and suggest based on it the proper diet and exercise needed to maintain a good health.
+
+## Doctor Appointment
+* We have also added a section called as doctor appointment in the end where incase of a problem which needs a doctor's suggestion then the user can book an appointment straight from the app itself.
 
 ## Authors
 
