@@ -14,7 +14,7 @@ This repository is for the hackathon conducted by ZS Prize.
   - [Medical Chatbot](#medical-chatbot)
   - [Comparison with Friends](#comparison-with-friends)
   - [Recommendations Module](#recommendations-module)
-  - [Doctor Appointment](#online-medic)
+  - [Doctor Appointment](#doctor-appointment)
 - [Flow Diagram](#flow-diagram)
 - [Submissions](#submissions)
 - [Authors](#authors)
